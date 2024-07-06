@@ -1,3 +1,5 @@
+# source of dataset
+https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset this is link of dataset  odel: "sequential_2"
 # Plant_disease_prediction
 1.The dataset used for training the model is sourced from Kaggle: New Plant Diseases Dataset. 
 It includes images of healthy and diseased leaves of various plants.
